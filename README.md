@@ -1,5 +1,7 @@
 # Hidrosafe
 
+Link de acceso: https://hidrosafe.onrender.com/
+
 Hydrosafe es una plataforma web en la nube orientada al monitoreo de sistemas hidráulicos y al soporte de estrategias de mantenimiento predictivo. La aplicación permite visualizar datos operativos, consultar estados del sistema, revisar históricos, gestionar notificaciones y administrar usuarios desde un panel web.
 
 ## Características
